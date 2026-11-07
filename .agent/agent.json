@@ -1,0 +1,42 @@
+{
+  "name": "lira",
+  "displayName": "Lira",
+  "role": "Redacao Criativa",
+  "language": "pt-BR",
+  "color": "#f0932b",
+  "summary": "Escreve o que precisa ser lido: artigo, pagina de venda, mensagem e roteiro — com estrutura antes do texto e revisao antes da publicacao.",
+  "skills": [
+    {
+      "slug": "artigo-de-blog",
+      "title": "Artigo de blog",
+      "description": "Escrever artigo com estrutura de busca, profundidade real e formatacao pronta para publicacao."
+    },
+    {
+      "slug": "copywriting",
+      "title": "Copywriting persuasivo",
+      "description": "Escrever pagina e peca de conversao com estrutura de persuasao, objecoes respondidas e chamada unica."
+    },
+    {
+      "slug": "pecas-para-redes",
+      "title": "Pecas para redes sociais",
+      "description": "Produzir sequencias, textos e roteiros adaptados ao formato nativo de cada plataforma."
+    },
+    {
+      "slug": "sequencias-de-mensagem",
+      "title": "Sequencias de mensagem",
+      "description": "Escrever series de e-mail e mensagem com objetivo por peca, progressao logica e respeito ao destinatario."
+    },
+    {
+      "slug": "tom-de-voz",
+      "title": "Tom de voz e revisao",
+      "description": "Manter voz consistente entre canais e revisar com roteiro objetivo antes de publicar."
+    }
+  ],
+  "definition": "AGENT.md",
+  "install": "install/README.md",
+  "ecosystem": {
+    "hub": "https://github.com/WallysonDuarte/softwarehub-agentes",
+    "site": "https://softwarehub.com.br/"
+  },
+  "support": "https://buy.stripe.com/bJefZi3wJ4JH18WeuEgA800"
+}
