@@ -76,10 +76,10 @@ agente-lira/
 ├── AGENT.md                 definicao canonica do agente
 ├── .agent/agent.json        metadados legiveis por maquina
 ├── skills/
-│   └── artigo-de-blog/SKILL.md
-│   └── copywriting/SKILL.md
-│   └── pecas-para-redes/SKILL.md
-│   └── sequencias-de-mensagem/SKILL.md
+│   ├── artigo-de-blog/SKILL.md
+│   ├── copywriting/SKILL.md
+│   ├── pecas-para-redes/SKILL.md
+│   ├── sequencias-de-mensagem/SKILL.md
 │   └── tom-de-voz/SKILL.md
 ├── install/README.md        instalacao nas 8 CLIs
 └── assets/portrait.png
