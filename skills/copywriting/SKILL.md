@@ -31,7 +31,7 @@ Formula util: **numero + qualificador + termo + promessa concreta**.
 | Fraco | Forte |
 |---|---|
 | "Nossa solucao de gestao" | "Reduza o fechamento mensal de 5 dias para 1" |
-| "Conheca nosso curso" | "Do primeiro commit a primeira vaga em 6 meses" |
+| "Conheca nosso curso" | "Aprenda a fazer o primeiro projeto em 4 semanas" |
 
 Promessa concreta exige lastro. Sem lastro, mude a promessa — nunca invente o numero.
 
